@@ -1,0 +1,26 @@
+.text{
+    color:aqua;
+    background-color: white;
+    font-size: 18pt;
+}
+
+#answer1{
+    display: none;
+    color:seagreen;
+    font-size: 15pt;
+}
+#answer2{
+    display: none;
+    color:seagreen;
+    font-size: 15pt;
+}
+#answer3{
+    display: none;
+    color:seagreen;
+    font-size: 15pt;
+}
+.game{
+    color:aqua;
+    background-color: greenyellow;
+    font-size: 18pt;
+}
